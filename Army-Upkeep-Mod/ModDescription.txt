@@ -1,7 +1,6 @@
-This mod allows each army to require X gold of upkeep.
-For this mod to work, Commerce must be enabled. If Commerce isn't enabled, Gold (the currency of Commerce games) will act just like regular Income. 
-To make Gold just like normal income, go to Armies, tick Commerce, untick Army Cost Multiplier and untick building Can Build Cities.
+This mod makes it so that each army requires X gold of upkeep per turn.
 
-Use the BonusValue QuickOverrider mod for more flexibility or manually override bonus values (in the Armies section).
+For this mod to work, Commerce should be enabled.
+To make Gold just like normal income, go to Armies, tick Commerce, untick Army Cost Multiplier and untick Can Build Cities.
 
 Gold has to be used as that is currently the only form of currency that mods can override.
